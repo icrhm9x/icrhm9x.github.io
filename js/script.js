@@ -247,7 +247,6 @@ data = {
     "pr": [
         "Tôi là một người có niềm đam mê IT, đặc biệt là ở lĩnh vực Back-End. Tuy kinh nghiệm làm việc của tôi hiện tại chưa nhiều nhưng bản thân tôi tự tin rằng mình có khả năng học hỏi, cũng như tìm tòi những kỹ thuật, ngôn ngữ mới một cách nhanh chóng.",
         "Ngoài ra tôi tự tin rằng mình là người có khả năng giao tiếp cũng như kết nối với những đồng nghiệp khác, vì thế trong công việc tôi luôn có những mối quan hệ tốt cũng như thành tích làm việc nhóm hiệu quả.",
-        "Khi có thời gian rảnh tôi thường tìm hiểu về máy tính và chơi game, đây cũng là đam mê lớn thứ 2 của tôi."
     ],
     "skills": [
         {
